@@ -6,3 +6,4 @@ button.addEventListener('click', function() {
   clickCount++;
   console.log('Click count:', clickCount);
 });
+console.log("Hello world");
