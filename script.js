@@ -6,4 +6,8 @@ button.addEventListener('click', function() {
   clickCount++;
   console.log('Click count:', clickCount);
 });
-//Editit
+console.log("Hello world");
+//edit
+//edit2
+//edit3
+//edit4
